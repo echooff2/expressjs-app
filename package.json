@@ -1,0 +1,14 @@
+{
+  "name": "Local Server",
+  "version": "1.0.0",
+  "description": "for Google Code In",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "echooff",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
